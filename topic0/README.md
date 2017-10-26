@@ -59,3 +59,11 @@ $ source ./<envoriment_title>/bin/activate
 pip install --upgrade pip
 pip install jupyter
 ```
+
+В дальнейшем мы будем работать внутри Jupyter, для его активации используем команду:
+
+```
+jupyter notebook
+```
+По умолчанию на порте :8888 подниментся веб приложение, в котором мы будем работать. Перейдём по адресу http://localhost:8888.
+создадим новый Python3 Notebook, выполнив команду New->Python3.
