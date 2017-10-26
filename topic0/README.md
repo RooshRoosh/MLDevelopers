@@ -66,4 +66,4 @@ pip install jupyter
 jupyter notebook
 ```
 По умолчанию на порте :8888 подниментся веб приложение, в котором мы будем работать. Перейдём по адресу http://localhost:8888.
-создадим новый Python3 Notebook, выполнив команду New->Python3.
+создадим новый Python3 Notebook, выполнив в открывшемся интерфейсе команду New->Python3.
