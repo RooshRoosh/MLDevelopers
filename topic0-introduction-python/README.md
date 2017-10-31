@@ -15,7 +15,7 @@ Python 3.6.0b3 (v3.6.0b3:8345e066c0ed, Oct 31 2016, 18:05:23)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
-Выйти из консоли Python, так же просто как и выйти из Vim. Просто напишите `exit()`
+Выйти из консоли Python так же просто как выйти из Vim. Просто напишите `exit()`
 
 Ура, вы установили Python
 
@@ -48,7 +48,7 @@ $ python -m venv <envoriment_title>
 Cчастливые обладатели Windows должны написать:
 
 ```
-$ ./<envoriment_title>/scripts/activate
+$ <envoriment_title>\scripts\ activate
 ```
 Все остальные (Linux, macOS) пишут:
 ```
